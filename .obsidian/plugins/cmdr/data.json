@@ -16,6 +16,12 @@
       "icon": "arrow-big-up",
       "name": "Obsidian Git: Push",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "icon": "arrow-big-down",
+      "name": "Obsidian Git: Pull",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],

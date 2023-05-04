@@ -78,7 +78,7 @@
       {
         "id": "d105c932a37c1a0f",
         "type": "tabs",
-        "dimension": 37.28448275862069,
+        "dimension": 37.28448275862068,
         "children": [
           {
             "id": "adf068ecfb8c11d1",
@@ -93,7 +93,7 @@
       {
         "id": "22da64aee93817e8",
         "type": "tabs",
-        "dimension": 62.71551724137932,
+        "dimension": 62.71551724137931,
         "children": [
           {
             "id": "a9c452a2282bc408",
@@ -162,6 +162,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Obsidian Git: Pull": false,
+      "cmdr:Obsidian Git: Commit all changes": false,
+      "cmdr:Obsidian Git: Push": false,
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
