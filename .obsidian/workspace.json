@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "0626e963cce7e86c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a944fa1bf525de05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "760e831ef8a1d874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d278917b5fd38a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfcb1fdb4aecb51a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b347fb35cdfe287e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "521936c124056086",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9af47040ad1facb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c706b0861d9b3421",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.50152587890625
+  },
+  "right": {
+    "id": "6434a14470a12283",
+    "type": "split",
+    "children": [
+      {
+        "id": "22da64aee93817e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9c452a2282bc408",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6be0c74b5aaffa3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78ab27f51d515fca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ff3d72f5909bdfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian.md"
+              }
+            }
+          },
+          {
+            "id": "adf068ecfb8c11d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d3d44bd686ce48d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b347fb35cdfe287e",
+  "lastOpenFiles": [
+    "README.md",
+    "新建 文本文档.txt",
+    "Day Planners/Day Planner-20230504.md",
+    "Day Planners/Day Planner-20230502.md",
+    "Day Planners",
+    "Excalidraw/Drawing 2023-05-02 09.11.42.excalidraw.md",
+    "Obsidian.md",
+    "202305021344.md",
+    "202305021345.md",
+    "Excalidraw",
+    "2023-05-01.md"
+  ]
+}

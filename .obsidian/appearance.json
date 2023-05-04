@@ -1,0 +1,13 @@
+{
+  "accentColor": "#dc9483",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "translucency": true,
+  "interfaceFontFamily": "微软雅黑,Aa小樱花少女 (非商业使用),HYWenHei 75W",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "网格背景",
+    "段落首行缩进",
+    "yaozhuwa@CSS"
+  ]
+}
