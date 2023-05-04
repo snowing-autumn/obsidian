@@ -58,14 +58,6 @@
             }
           },
           {
-            "id": "d9af47040ad1facb",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "c706b0861d9b3421",
             "type": "leaf",
             "state": {
@@ -84,8 +76,24 @@
     "type": "split",
     "children": [
       {
+        "id": "d105c932a37c1a0f",
+        "type": "tabs",
+        "dimension": 37.28448275862069,
+        "children": [
+          {
+            "id": "adf068ecfb8c11d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "22da64aee93817e8",
         "type": "tabs",
+        "dimension": 62.71551724137932,
         "children": [
           {
             "id": "a9c452a2282bc408",
@@ -138,14 +146,6 @@
             }
           },
           {
-            "id": "adf068ecfb8c11d1",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "3d3d44bd686ce48d",
             "type": "leaf",
             "state": {
@@ -175,15 +175,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b347fb35cdfe287e",
+  "active": "760e831ef8a1d874",
   "lastOpenFiles": [
+    "Obsidian.md",
     "README.md",
     "新建 文本文档.txt",
     "Day Planners/Day Planner-20230504.md",
     "Day Planners/Day Planner-20230502.md",
     "Day Planners",
     "Excalidraw/Drawing 2023-05-02 09.11.42.excalidraw.md",
-    "Obsidian.md",
     "202305021344.md",
     "202305021345.md",
     "Excalidraw",

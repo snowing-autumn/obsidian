@@ -1,10 +1,23 @@
 {
   "confirmDeletion": true,
-  "showAddCommand": false,
+  "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-git:commit",
+      "icon": "box",
+      "name": "Obsidian Git: Commit all changes",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "arrow-big-up",
+      "name": "Obsidian Git: Push",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
