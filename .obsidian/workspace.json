@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a944fa1bf525de05",
+        "id": "534fa4c024165f2e",
         "type": "tabs",
         "children": [
           {
-            "id": "760e831ef8a1d874",
+            "id": "90194a96041a697f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,6 +83,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "3d3d44bd686ce48d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       },
@@ -96,12 +100,27 @@
         "dimension": 62.71551724137931,
         "children": [
           {
+            "id": "1ff3d72f5909bdfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "90ce5478fb67462c",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
             "id": "a9c452a2282bc408",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,31 +152,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "1ff3d72f5909bdfa",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian.md"
-              }
-            }
-          },
-          {
-            "id": "3d3d44bd686ce48d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 315
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,15 +178,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "760e831ef8a1d874",
+  "active": "b347fb35cdfe287e",
   "lastOpenFiles": [
+    "DebuAnnotation.md",
     "Obsidian.md",
+    "未命名",
+    "社会心理学 第11版 13920285[www.rejoiceblog.com].pdf",
+    "excalibrain.md",
+    "Excalidraw/ExcaliBrain Snapshot - ExcaliBrain Snapshot - Obsidian.excalidraw.excalidraw.md",
+    "Excalidraw/ExcaliBrain Snapshot - Obsidian.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-02 09.11.42.excalidraw.md",
+    "Day Planners/Day Planner-20230506.md",
+    "cedict_ts.u8",
+    "Day Planners/Day Planner-20230505.md",
     "README.md",
     "新建 文本文档.txt",
     "Day Planners/Day Planner-20230504.md",
     "Day Planners/Day Planner-20230502.md",
     "Day Planners",
-    "Excalidraw/Drawing 2023-05-02 09.11.42.excalidraw.md",
     "202305021344.md",
     "202305021345.md",
     "Excalidraw",

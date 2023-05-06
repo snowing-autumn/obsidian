@@ -11,8 +11,6 @@
   "templater-obsidian",
   "editing-toolbar",
   "file-explorer-note-count",
-  "obsidian-pandoc",
-  "obsidian-enhancing-export",
   "various-complements",
   "mysnippets-plugin",
   "obsidian-auto-link-title",
@@ -23,5 +21,8 @@
   "tag-wrangler",
   "excalibrain",
   "obsidian-day-planner",
-  "dataview"
+  "dataview",
+  "obsidian-pandoc",
+  "obsidian-enhancing-export",
+  "obsidian-annotator"
 ]

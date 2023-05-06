@@ -90,5 +90,6 @@
   "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-light": 0,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
-  "anuppuccin-theme-settings@@anp-status-bar-select": "none"
+  "anuppuccin-theme-settings@@anp-status-bar-select": "none",
+  "yaozhuwa@css@@outline-tweak": true
 }

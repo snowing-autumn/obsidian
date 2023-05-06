@@ -201,9 +201,10 @@
       "icon": "fullscreen"
     },
     {
-      "id": "editing-toolbar:workplace-fullscreen-focus",
-      "name": "workplace-Fullscreen ",
-      "icon": "exit-fullscreen"
+      "id": "obsidian-mind-map:app:markmap-preview",
+      "name": "Mind Map: Preview the current note as a Mind Map",
+      "hotkeys": [],
+      "icon": "banknote"
     }
   ],
   "appendMethod": "workspace",
