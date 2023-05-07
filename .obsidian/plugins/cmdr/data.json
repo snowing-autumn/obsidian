@@ -22,6 +22,12 @@
       "icon": "arrow-big-down",
       "name": "Obsidian Git: Pull",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-annotator:toggle-annotation-mode",
+      "icon": "brush",
+      "name": "Annotator: Toggle Annotation/Markdown Mode",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
